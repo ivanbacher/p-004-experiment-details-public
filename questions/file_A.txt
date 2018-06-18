@@ -1,0 +1,22 @@
+File A
+
+Q1
+Move the cursor to line 65. Is the identifier countInner local to the scope of partitionHoare?
+
+Q2
+Move the cursor to line 25. Is the identifier temp2 local to the scope of quickSort?
+
+Q3
+Move the cursor to line 90. Is the identifier countswap local to the scope of partitionLomuto?
+
+
+File B
+
+Q4
+Move the cursor to line 210. Is the identifier lastEl local to the global scope?
+
+Q5
+Move the cursor to line 179. Is the identifier AM local to the scope of array_manipulator?
+
+Q6
+Move the cursor to line 109. Is elem local to the scope of remove?
