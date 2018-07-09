@@ -1,4 +1,6 @@
-# Scoped Experiment public data
+# Scoped: Evaluating A Composite Visualisation Of The Scope Chain Hierarchy Within Source Code
+
+### Ivan Bacher, Brian Mac Namee, and John D. Kelleher
 
 This repository consists of 3 folders:
 1. Code - Contains the code samples used during the experiment
